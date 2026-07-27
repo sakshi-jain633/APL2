@@ -1,4 +1,4 @@
 # APL2
 
-this repo contains all the lab exercises.
+this repo contains all the lab exercises of advanced programming.
 
